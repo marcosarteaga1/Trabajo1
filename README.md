@@ -3,6 +3,6 @@
      Mi primera pagina GIT
   </head>
   <body>
-    Marcos Arteaga Suarez
+    <p> Marcos Arteaga Suarez </p>
   </body>
 </html>
